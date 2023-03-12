@@ -54,7 +54,7 @@
   <img alt="Luan-Thnh's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=luan-thnh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div>
 
-<h2 align="center">:heart: My Recent Repositories:</h2>
+<h2 align="center">:heart: My Favorite Repositories:</h2>
 
 <div align="center">
   <a href="https://github.com/luan-thnh/music-player"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=music-player&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" width="400px"/></a>
