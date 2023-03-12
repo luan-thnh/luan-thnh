@@ -57,12 +57,7 @@
 <h2 align="center">:heart: My Favorite Repositories:</h2>
 
 <div align="center">
-  <a href="https://github.com/luan-thnh/music-player"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=music-player&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" width="400px"/></a>
-  <a href="https://github.com/luan-thnh/lets-food"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=lets-food&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" width="400px"/></a>
-  <a href="https://github.com/luan-thnh/todo-list"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=todo-list&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" width="400px"/></a>
-  <a href="https://github.com/luan-thnh/foodyar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=foodyar&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" width="400px"/></a>
-  <a href="https://github.com/luan-thnh/github-shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=github-shop&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" width="400px"/></a>
-  <a href="https://github.com/luan-thnh/finsweet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=finsweet&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" width="400px"/></a>
+ 
 </div>
 
 <h3 align="center">Created by @luanthnh :fountain_pen:</h3>
