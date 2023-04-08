@@ -65,4 +65,4 @@
   <a href="https://github.com/luan-thnh/finsweet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=finsweet&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" width="400px"/></a>
 </div>
 
-<h3 align="center">Created by @luanthnh :fountain_pen:</h3>
+<h3 align="center">Created by @łuɑnthnɧ :fountain_pen:</h3>
