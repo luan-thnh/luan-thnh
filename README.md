@@ -51,7 +51,7 @@
 <div align="center">
   <img alt="Luan-Thnh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luan-thnh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   <img alt="Luan-Thnh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-thnh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-  <img alt="Luan-Thnh's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=luan-thnh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<!--   <img alt="Luan-Thnh's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=luan-thnh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /> -->
 </div>
 
 <h2 align="center">:heart: My Favorite Repositories:</h2>
@@ -65,4 +65,4 @@
   <a href="https://github.com/luan-thnh/finsweet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=finsweet&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" width="400px"/></a>
 </div>
 
-<h3 align="center">Created by @łuɑnthnɧ :fountain_pen:</h3>
+<h3 align="center">Created by @luanthnh :fountain_pen:</h3>
