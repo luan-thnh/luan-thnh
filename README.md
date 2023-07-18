@@ -52,7 +52,7 @@
 <div align="center">
   <img alt="Luan-Thnh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luan-thnh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   <img alt="Luan-Thnh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-thnh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-<!--   <img alt="Luan-Thnh's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=luan-thnh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /> -->
+  <img alt="Luan-Thnh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=luan-thnh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true&radius=8" height="268px"/>
 </div>
 
 <h2 align="center">:heart: My Favorite Repositories: <img src="https://github.com/MLX15/MLX15/blob/master/a.gif" /></h2>
