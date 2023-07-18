@@ -69,7 +69,7 @@
 <h2 align="center">🐍 Just a snake eating my contributions</h2>
 <a href="https://www.facebook.com/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 <p align='center'>
-<img src="https://github.com/MLX15/MLX15/blob/master/github-contribution-grid-snake.svg">
+  <img src="https://github.com/luan-thnh/luan-thnh/blob/main/github-user-contribution.svg">
 </p>
 
 <h3 align="center">Created by @luanthnh :fountain_pen:</h3>
