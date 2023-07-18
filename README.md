@@ -16,10 +16,11 @@
   <div id="header" align="center">
     <img src="https://komarev.com/ghpvc/?username=yluan-thanh&style=flat-square&color=blue" alt=""/>
   </div>
-  
+
   <h1>
     < Hello, I'm LuanThnh / >
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://github.com/MLX15/MLX15/blob/master/a.gif" />
   </h1>
 </div>
 
@@ -29,8 +30,8 @@
 </div>
 
 
-<h2 align="center">:hammer_and_wrench: Languages and Tools :</h2>
- 
+<h2 align="center">:hammer_and_wrench: Languages and Tools :<img src="https://github.com/MLX15/MLX15/blob/master/a.gif" /></h2>
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -40,13 +41,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<h2 align="center">:fire: Streak Stats :</h2>
+<h2 align="center">:fire: Streak Stats : <img src="https://github.com/MLX15/MLX15/blob/master/a.gif" /></h2>
 
 <p align="center">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=luan-thnh&theme=monokai-metallian&hide_border=true"/>
 </p>
 
-<h2 align="center">:computer: GitHub Profile Stats :</h2>
+<h2 align="center">:computer: GitHub Profile Stats : <img src="https://github.com/MLX15/MLX15/blob/master/a.gif" /></h2>
 
 <div align="center">
   <img alt="Luan-Thnh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luan-thnh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
@@ -54,7 +55,7 @@
 <!--   <img alt="Luan-Thnh's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=luan-thnh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /> -->
 </div>
 
-<h2 align="center">:heart: My Favorite Repositories:</h2>
+<h2 align="center">:heart: My Favorite Repositories: <img src="https://github.com/MLX15/MLX15/blob/master/a.gif" /></h2>
 
 <div align="center">
   <a href="https://github.com/luan-thnh/music-player"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=music-player&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" width="400px"/></a>
@@ -64,5 +65,11 @@
   <a href="https://github.com/luan-thnh/github-shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=github-shop&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" width="400px"/></a>
   <a href="https://github.com/luan-thnh/finsweet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=finsweet&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" width="400px"/></a>
 </div>
+
+<h2 align="center">🐍 Just a snake eating my contributions</h2>
+<a href="https://www.facebook.com/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
+<p align='center'>
+<img src="https://github.com/MLX15/MLX15/blob/master/github-contribution-grid-snake.svg">
+</p>
 
 <h3 align="center">Created by @luanthnh :fountain_pen:</h3>
