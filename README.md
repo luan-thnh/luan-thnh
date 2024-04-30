@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" width="60%"/>
+  <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png"/>
 </div>
 
 <div>
