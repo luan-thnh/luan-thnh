@@ -27,7 +27,7 @@
 </div>
 
 
-<h2 align="center">:hammer_and_wrench: Languages and Tools :</h2>
+<h2 align="center">< :hammer_and_wrench: Languages and Tools /></h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,figma,ps,ai" /><br>
@@ -36,13 +36,13 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,firebase" /><br>
 </div>
 
-<h2 align="center">:fire: Streak Stats : </h2>
+<h2 align="center">< :fire: Streak Stats /> </h2>
 
 <p align="center">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=luan-thnh&theme=monokai-metallian&hide_border=true"/>
 </p>
 
-<h2 align="center">:computer: GitHub Profile Stats : </h2>
+<h2 align="center">< :computer: GitHub Profile Stats /></h2>
 
 <div align="center">
   <img alt="Luan-Thnh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luan-thnh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
@@ -50,7 +50,7 @@
   <img alt="Luan-Thnh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=luan-thnh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true&radius=8" height="268px"/>
 </div>
 
-<h2 align="center">:heart: My Favorite Repositories: </h2>
+<h2 align="center">< :heart: My Favorite Repositories /></h2>
 
 <div align="center">
   <a href="https://github.com/luan-thnh/music-player"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=music-player&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" /></a>
@@ -61,7 +61,7 @@
   <a href="https://github.com/luan-thnh/finsweet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=finsweet&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" /></a>
 </div>
 
-<h2 align="center">🐍 Just a snake eating my contributions</h2>
+<h2 align="center">< 🐍 Just a snake eating my contributions /></h2>
 <a href="https://www.facebook.com/"></a>
 <p align='center'>
   <img src="https://github.com/luan-thnh/luan-thnh/blob/main/github-user-contribution.svg">
