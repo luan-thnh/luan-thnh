@@ -47,22 +47,22 @@
 
 <div align="center">
   <a href="https://github.com/luan-thnh">
-    <img height="192px" src="https://github-readme-stats.vercel.app/api?username=luan-thnh&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+    <img height="192px" src="https://github-readme-stats-gray-eight-76.vercel.app/api?username=luan-thnh&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
   </a>
   <a href="https://github.com/luan-thnh">
-    <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-thnh&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" />
+    <img height="192px" src="https://github-readme-stats-gray-eight-76.vercel.app/api/top-langs/?username=luan-thnh&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" />
   </a>
 </div>
 
 <h2 align="center">< :heart: My Favorite Repositories /></h2>
 
 <div align="center">
-  <a href="https://github.com/luan-thnh/music-player"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=music-player&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" /></a>
-  <a href="https://github.com/luan-thnh/lets-food"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=lets-food&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" /></a>
-  <a href="https://github.com/luan-thnh/todo-list"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=todo-list&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" /></a>
-  <a href="https://github.com/luan-thnh/foodyar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=foodyar&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" /></a>
-  <a href="https://github.com/luan-thnh/github-shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=github-shop&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" /></a>
-  <a href="https://github.com/luan-thnh/finsweet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=finsweet&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" /></a>
+  <a href="https://github.com/luan-thnh/music-player"><img src="https://github-readme-stats-gray-eight-76.vercel.app/api/pin/?username=luan-thnh&repo=music-player&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" /></a>
+  <a href="https://github.com/luan-thnh/lets-food"><img src="https://github-readme-stats-gray-eight-76.vercel.app/api/pin/?username=luan-thnh&repo=lets-food&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" /></a>
+  <a href="https://github.com/luan-thnh/todo-list"><img src="https://github-readme-stats-gray-eight-76.vercel.app/api/pin/?username=luan-thnh&repo=todo-list&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" /></a>
+  <a href="https://github.com/luan-thnh/foodyar"><img src="https://github-readme-stats-gray-eight-76.vercel.app/api/pin/?username=luan-thnh&repo=foodyar&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" /></a>
+  <a href="https://github.com/luan-thnh/github-shop"><img src="https://github-readme-stats-gray-eight-76.vercel.app/api/pin/?username=luan-thnh&repo=github-shop&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" /></a>
+  <a href="https://github.com/luan-thnh/finsweet"><img src="https://github-readme-stats-gray-eight-76.vercel.app/api/pin/?username=luan-thnh&repo=finsweet&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" /></a>
 </div>
 
 <h2 align="center">< 🐍 Just a snake eating my contributions /></h2>
