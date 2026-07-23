@@ -1,15 +1,7 @@
-# Apply Profile V6
+# Apply Profile V7
 
-Copy into `luan-thnh/luan-thnh`:
+1. Deploy Alive GitHub Signals v1.3.4.
+2. Copy `README.md` and `assets/hero-portfolio-mark-v4.svg` into `luan-thnh/luan-thnh`.
+3. Keep the existing snake workflow/output branch.
 
-- `README.md`
-- `assets/hero-portfolio-mark-v4.svg`
-- `assets/portfolio-mark-rotating.svg`
-
-The new hero filename bypasses the previous GitHub Camo cache.
-
-Changes:
-- removed logo glow and background aura;
-- portfolio mark rotates counter-clockwise;
-- signal rings run in the opposite direction;
-- replaced the lower wave with an angular DESIGN / MOTION / ENGINEERING data bus.
+Profile V7 uses composition boards. Each section is one responsive SVG but contains an asymmetric internal layout, avoiding the limitations of GitHub Markdown tables.
