@@ -1,0 +1,41 @@
+<svg width="256" height="256" viewBox="0 0 156 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">luanthnh portfolio mark</title>
+<desc id="desc">Flat acid-lime portfolio mark rotating opposite its signal rings.</desc>
+<defs>
+  <style>
+    @keyframes mark-rotate { from {transform:rotate(0deg)} to {transform:rotate(-360deg)} }
+    @keyframes ring-flow { from {stroke-dashoffset:0} to {stroke-dashoffset:260} }
+    @keyframes ring-flow-r { from {stroke-dashoffset:0} to {stroke-dashoffset:-260} }
+    @keyframes mark-core { 0%,100% {opacity:.58} 50% {opacity:1} }
+    @keyframes node-pulse { 0%,100% {opacity:.32} 50% {opacity:1} }
+    .mark {
+      transform-box:fill-box;
+      transform-origin:center;
+      animation:mark-rotate 18s linear infinite;
+    }
+    .ring-a { animation:ring-flow 16s linear infinite; }
+    .ring-b { animation:ring-flow-r 22s linear infinite; }
+    .core { animation:mark-core 2.1s ease-in-out infinite; }
+    .node { animation:node-pulse 2.7s ease-in-out infinite; }
+    @media (prefers-reduced-motion:reduce) { * {animation:none !important;} }
+  </style>
+</defs>
+<rect width="156" height="180" fill="#080808"/>
+<circle class="ring-a" cx="78" cy="90" r="62" fill="none" stroke="#C8FF4D" stroke-opacity=".26" stroke-dasharray="3 9"/>
+<circle class="ring-b" cx="78" cy="90" r="51" fill="none" stroke="#F3F0EA" stroke-opacity=".12" stroke-dasharray="18 9"/>
+<g class="mark">
+  <path fill="#C8FF4D" fill-rule="evenodd" clip-rule="evenodd" d="M39 52H88L106 70L107 52H116L117 99L98 119L116 120L117 129H68L49 111L48 129H39V81L57 63L39 61V52ZM59 62L58 100L50 109L88 110L96 118L97 81L105 72L68 71L59 62Z"/>
+  <path d="M39 52H88L106 70L107 52H116L117 99L98 119L116 120L117 129H68L49 111L48 129H39V81L57 63L39 61V52"
+        fill="none" stroke="#F3F0EA" stroke-opacity=".45" stroke-width="1"/>
+  <g class="core">
+    <rect x="69.5" y="81.5" width="17" height="18" rx="4.8" fill="#C8FF4D"/>
+    <rect x="73.5" y="85.5" width="9" height="10" rx="2.2" fill="#080808"/>
+  </g>
+</g>
+<circle class="node" cx="30" cy="90" r="3" fill="#C8FF4D"/>
+<circle class="node" cx="126" cy="90" r="3" fill="#C8FF4D" style="animation-delay:-1.2s"/>
+<path d="M20 144H136" stroke="#C8FF4D" stroke-opacity=".28"/>
+<text x="78" y="158" text-anchor="middle" fill="#7C8178"
+      font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+      font-size="5.7" letter-spacing="1.1">LUANTHNH / PORTFOLIO MARK</text>
+</svg>

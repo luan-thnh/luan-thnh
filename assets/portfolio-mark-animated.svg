@@ -1,0 +1,59 @@
+<svg width="256" height="256" viewBox="0 0 156 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">luanthnh portfolio mark</title>
+<desc id="desc">Animated acid-lime geometric portfolio logo.</desc>
+<defs>
+  <filter id="mark-glow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="3.8" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <linearGradient id="mark-scan" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#C8FF4D" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#F3F0EA" stop-opacity=".9"/>
+    <stop offset="1" stop-color="#C8FF4D" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="mark-clip">
+    <path fill-rule="evenodd" clip-rule="evenodd"
+      d="M39 52H88L106 70L107 52H116L117 99L98 119L116 120L117 129H68L49 111L48 129H39V81L57 63L39 61V52ZM59 62L58 100L50 109L88 110L96 118L97 81L105 72L68 71L59 62Z"/>
+  </clipPath>
+  <style>
+    @keyframes mark-draw { from { stroke-dashoffset:620; opacity:.15 } to { stroke-dashoffset:0; opacity:1 } }
+    @keyframes mark-breathe { 0%,100% { opacity:.82 } 50% { opacity:1; filter:url(#mark-glow) } }
+    @keyframes mark-core { 0%,100% { opacity:.58 } 50% { opacity:1 } }
+    @keyframes mark-scan-move { from { transform:translateX(-96px); opacity:0 } 20% {opacity:.9} to { transform:translateX(190px); opacity:0 } }
+    @keyframes node-pulse { 0%,100% { opacity:.32 } 50% { opacity:1 } }
+    .main-fill { animation:mark-breathe 3.8s ease-in-out infinite; }
+    .main-outline { stroke-dasharray:620; animation:mark-draw 1.9s cubic-bezier(.2,.8,.2,1) both; }
+    .core { animation:mark-core 2.1s ease-in-out infinite; }
+    .scan { animation:mark-scan-move 4.8s ease-in-out infinite; }
+    .node { animation:node-pulse 2.7s ease-in-out infinite; }
+    @media (prefers-reduced-motion: reduce) { * { animation:none !important; } }
+  </style>
+</defs>
+<rect width="156" height="180" fill="#080808"/>
+<circle cx="78" cy="90" r="62" fill="none" stroke="#C8FF4D" stroke-opacity=".12" stroke-dasharray="3 9"/>
+<circle cx="78" cy="90" r="51" fill="none" stroke="#F3F0EA" stroke-opacity=".08"/>
+<g fill="#C8FF4D" class="main-fill">
+  
+<g id="portfolio-mark">
+  <path id="mark-main" fill-rule="evenodd" clip-rule="evenodd"
+    d="M39 52H88L106 70L107 52H116L117 99L98 119L116 120L117 129H68L49 111L48 129H39V81L57 63L39 61V52ZM59 62L58 100L50 109L88 110L96 118L97 81L105 72L68 71L59 62Z"/>
+  <rect id="mark-core-frame" x="69.5" y="81.5" width="17" height="18" rx="4.8" fill="#C8FF4D"/>
+  <rect id="mark-core-hole" x="73.5" y="85.5" width="9" height="10" rx="2.2" fill="#080808"/>
+</g>
+
+</g>
+<path class="main-outline"
+  d="M39 52H88L106 70L107 52H116L117 99L98 119L116 120L117 129H68L49 111L48 129H39V81L57 63L39 61V52"
+  fill="none" stroke="#F3F0EA" stroke-opacity=".55" stroke-width="1.1"/>
+<g class="core">
+  <rect x="69.5" y="81.5" width="17" height="18" rx="4.8" fill="#C8FF4D"/>
+  <rect x="73.5" y="85.5" width="9" height="10" rx="2.2" fill="#080808"/>
+</g>
+<g clip-path="url(#mark-clip)">
+  <rect class="scan" x="-80" y="45" width="54" height="92" fill="url(#mark-scan)" opacity=".8"/>
+</g>
+<circle class="node" cx="30" cy="90" r="3" fill="#C8FF4D"/>
+<circle class="node" cx="126" cy="90" r="3" fill="#C8FF4D" style="animation-delay:-1.2s"/>
+<path d="M20 144H136" stroke="#C8FF4D" stroke-opacity=".28"/>
+<text x="78" y="158" text-anchor="middle" fill="#7C8178" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="5.7" letter-spacing="1.1">LUANTHNH / PORTFOLIO MARK</text>
+</svg>

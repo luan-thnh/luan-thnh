@@ -1,16 +1,15 @@
-# Apply this profile
+# Apply Profile V6
 
-Copy these items into the root of `luan-thnh/luan-thnh`:
+Copy into `luan-thnh/luan-thnh`:
 
 - `README.md`
-- `assets/hero-signal-aperture-v2.svg`
+- `assets/hero-portfolio-mark-v4.svg`
+- `assets/portfolio-mark-rotating.svg`
 
-The rest of the README is rendered from:
+The new hero filename bypasses the previous GitHub Camo cache.
 
-`https://alive-github-signals.vercel.app/`
-
-No local GitHub statistics workflow or generated statistics SVG is required.
-
-## Recommended cleanup
-
-The new README no longer references the old project artwork or local GitHub signal. It intentionally keeps the animated contribution snake from the `output` branch.
+Changes:
+- removed logo glow and background aura;
+- portfolio mark rotates counter-clockwise;
+- signal rings run in the opposite direction;
+- replaced the lower wave with an angular DESIGN / MOTION / ENGINEERING data bus.
