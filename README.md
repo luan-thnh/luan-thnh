@@ -1,3 +1,6 @@
+
+<img src="https://alive-github-signals.vercel.app/api/ticker?username=luan-thnh&theme=alive&width=1200&height=74&animate=true&cache_seconds=21600&repo_pages=1&v=20260723-4" width="100%" alt="Live GitHub metrics for luanthnh">
+
 <div align="center">
   <img src="./assets/hero-portfolio-mark-v4.svg" width="100%" alt="luanthnh — Creative Frontend Developer">
 </div>
@@ -10,10 +13,6 @@
   <a href="https://facebook.com/luanthnh.dev/"><img src="https://alive-github-signals.vercel.app/api/button?label=FACEBOOK&icon=facebook&variant=bracket&theme=alive&width=190&height=52&animate=true&v=20260723-4" alt="Facebook"></a>
   <a href="mailto:luanthanh0322@gmail.com"><img src="https://alive-github-signals.vercel.app/api/button?label=EMAIL&icon=email&variant=bracket&theme=alive&width=190&height=52&animate=true&v=20260723-4" alt="Email"></a>
 </div>
-
-<br>
-
-<img src="https://alive-github-signals.vercel.app/api/ticker?username=luan-thnh&theme=alive&width=1200&height=74&animate=true&cache_seconds=21600&repo_pages=1&v=20260723-4" width="100%" alt="Live GitHub metrics for luanthnh">
 
 ---
 
