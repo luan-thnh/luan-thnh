@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero-signal-aperture.svg" width="100%" alt="luanthnh — Creative Frontend Developer">
+  <img src="./assets/hero-signal-aperture-v2.svg" width="100%" alt="luanthnh — Creative Frontend Developer">
 </div>
 
 <br>
@@ -119,13 +119,26 @@ I’m **luanthnh**, a frontend developer based in **Đà Nẵng, Việt Nam**. I
   <img src="https://alive-github-signals.vercel.app/api/activity?username=luan-thnh&theme=alive&width=1200&height=390&animate=true&cache_seconds=300" width="100%" alt="Live GitHub activity trace">
 </div>
 
+
 ---
+
+## `06 / CONTRIBUTION SNAKE`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luan-thnh/luan-thnh/output/github-snake-alive-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luan-thnh/luan-thnh/output/github-snake-alive-light.svg">
+  <img src="https://raw.githubusercontent.com/luan-thnh/luan-thnh/output/github-snake-alive-dark.svg" width="100%" alt="Animated contribution snake for luanthnh">
+</picture>
+
+</div>
 
 <table>
 <tr>
 <td width="68%" valign="middle">
 
-## `06 / OPEN CHANNEL`
+## `07 / OPEN CHANNEL`
 
 ### Have an interface problem, product idea, or repetitive workflow worth improving?
 

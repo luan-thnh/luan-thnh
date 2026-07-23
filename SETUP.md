@@ -3,7 +3,7 @@
 Copy these items into the root of `luan-thnh/luan-thnh`:
 
 - `README.md`
-- `assets/hero-signal-aperture.svg`
+- `assets/hero-signal-aperture-v2.svg`
 
 The rest of the README is rendered from:
 
@@ -13,5 +13,4 @@ No local GitHub statistics workflow or generated statistics SVG is required.
 
 ## Recommended cleanup
 
-The new README no longer references the old project artwork, local GitHub signal,
-or contribution snake. Those files may be deleted after the new profile is verified.
+The new README no longer references the old project artwork or local GitHub signal. It intentionally keeps the animated contribution snake from the `output` branch.
